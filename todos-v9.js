@@ -97,6 +97,7 @@ var view = {
   }
 }
 
+
 // Add default todos
 todoList.addTodo('Buy Milk');
 todoList.addTodo('Make bread');
